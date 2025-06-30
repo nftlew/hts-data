@@ -1,0 +1,534 @@
+{
+  "spanner": [
+    "wrench",
+    "hand tool"
+  ],
+  "wrench": [
+    "spanner",
+    "wrenches",
+    "hand tool"
+  ],
+  "wrenches": [
+    "wrench",
+    "spanner"
+  ],
+  "footwear": [
+    "shoes",
+    "boots",
+    "sandals",
+    "sneakers"
+  ],
+  "shoe": [
+    "shoes",
+    "footwear"
+  ],
+  "shoes": [
+    "footwear",
+    "sneakers",
+    "boots",
+    "sandals"
+  ],
+  "sneaker": [
+    "sneakers",
+    "athletic shoe",
+    "footwear"
+  ],
+  "sneakers": [
+    "sneaker",
+    "shoes",
+    "athletic footwear"
+  ],
+  "boot": [
+    "boots",
+    "footwear"
+  ],
+  "boots": [
+    "boot",
+    "footwear"
+  ],
+  "sandal": [
+    "sandals",
+    "shoe",
+    "footwear"
+  ],
+  "sandals": [
+    "sandal",
+    "shoes",
+    "footwear"
+  ],
+  "carbonated beverage": [
+    "soda",
+    "soft drink",
+    "cola"
+  ],
+  "soda": [
+    "soft drink",
+    "cola",
+    "carbonated beverage"
+  ],
+  "soft drink": [
+    "soda",
+    "cola",
+    "carbonated beverage"
+  ],
+  "cola": [
+    "soda",
+    "soft drink",
+    "carbonated beverage"
+  ],
+  "vacuum cleaner": [
+    "vacuum",
+    "hoover"
+  ],
+  "vacuum": [
+    "vacuum cleaner",
+    "hoover"
+  ],
+  "hoover": [
+    "vacuum cleaner",
+    "vacuum"
+  ],
+  "cell phone": [
+    "mobile phone",
+    "smartphone"
+  ],
+  "mobile phone": [
+    "cell phone",
+    "smartphone",
+    "mobile handset"
+  ],
+  "smartphone": [
+    "cell phone",
+    "mobile phone"
+  ],
+  "tyre": [
+    "tire"
+  ],
+  "tire": [
+    "tyre"
+  ],
+  "motorcar": [
+    "automobile",
+    "car",
+    "passenger vehicle"
+  ],
+  "automobile": [
+    "car",
+    "motorcar",
+    "passenger vehicle"
+  ],
+  "car": [
+    "automobile",
+    "motorcar",
+    "passenger vehicle"
+  ],
+  "porcelain": [
+    "ceramic",
+    "china"
+  ],
+  "china": [
+    "porcelain",
+    "ceramic"
+  ],
+  "ceramic": [
+    "porcelain",
+    "china"
+  ],
+  "frozen fish": [
+    "fish frozen",
+    "seafood frozen",
+    "frozen seafood"
+  ],
+  "beef": [
+    "bovine meat",
+    "cow meat"
+  ],
+  "bovine": [
+    "cattle",
+    "cow"
+  ],
+  "polyethylene": [
+    "pe"
+  ],
+  "pe": [
+    "polyethylene"
+  ],
+  "polypropylene": [
+    "pp"
+  ],
+  "pp": [
+    "polypropylene"
+  ],
+  "polystyrene": [
+    "ps"
+  ],
+  "ps": [
+    "polystyrene"
+  ],
+  "bottle": [
+    "flask",
+    "vessel"
+  ],
+  "flask": [
+    "bottle",
+    "vessel"
+  ],
+  "champagne": [
+    "sparkling wine"
+  ],
+  "sparkling wine": [
+    "champagne"
+  ],
+  "cotton fabric": [
+    "cotton cloth",
+    "cotton textile"
+  ],
+  "cotton cloth": [
+    "cotton fabric",
+    "cotton textile"
+  ],
+  "hinge": [
+    "hinges"
+  ],
+  "hinges": [
+    "hinge"
+  ],
+  "screw": [
+    "screws",
+    "fastener",
+    "bolt"
+  ],
+  "screws": [
+    "screw",
+    "fasteners"
+  ],
+  "fastener": [
+    "fasteners",
+    "screw",
+    "bolt"
+  ],
+  "fasteners": [
+    "fastener",
+    "screw",
+    "bolts"
+  ],
+  "bolt": [
+    "bolts",
+    "fastener",
+    "fasteners"
+  ],
+  "bolts": [
+    "bolt",
+    "fasteners"
+  ],
+  "nut": [
+    "nuts",
+    "fastener"
+  ],
+  "nuts": [
+    "nut",
+    "fasteners"
+  ],
+  "furniture": [
+    "chairs",
+    "tables",
+    "desks",
+    "sofa"
+  ],
+  "chair": [
+    "chairs",
+    "seat",
+    "furniture"
+  ],
+  "chairs": [
+    "chair",
+    "seating",
+    "furniture"
+  ],
+  "seat": [
+    "chair",
+    "seating",
+    "furniture"
+  ],
+  "computer": [
+    "pc",
+    "desktop",
+    "laptop"
+  ],
+  "pc": [
+    "personal computer",
+    "computer"
+  ],
+  "laptop": [
+    "notebook",
+    "portable computer",
+    "computer"
+  ],
+  "notebook": [
+    "laptop",
+    "portable computer"
+  ],
+  "turmeric": [
+    "curcuma"
+  ],
+  "curcuma": [
+    "turmeric"
+  ],
+  "motorcycle": [
+    "motorbike"
+  ],
+  "motorbike": [
+    "motorcycle"
+  ],
+  "pet food": [
+    "dog food",
+    "cat food",
+    "animal feed"
+  ],
+  "dog food": [
+    "pet food"
+  ],
+  "cat food": [
+    "pet food"
+  ],
+  "oil": [
+    "petroleum",
+    "crude oil"
+  ],
+  "petroleum": [
+    "oil",
+    "crude oil"
+  ],
+  "gasoline": [
+    "petrol",
+    "motor spirit"
+  ],
+  "petrol": [
+    "gasoline"
+  ],
+  "diesel fuel": [
+    "diesel"
+  ],
+  "diesel": [
+    "diesel fuel"
+  ],
+  "athletic apparel": [
+    "activewear",
+    "sportswear"
+  ],
+  "activewear": [
+    "athletic apparel",
+    "sportswear"
+  ],
+  "sportswear": [
+    "athletic apparel",
+    "activewear"
+  ],
+  "spectacles": [
+    "eyeglasses",
+    "glasses"
+  ],
+  "eyeglasses": [
+    "glasses",
+    "spectacles"
+  ],
+  "glasses": [
+    "eyeglasses",
+    "spectacles"
+  ],
+  "jewelry": [
+    "jewelery",
+    "ornaments",
+    "jewel"
+  ],
+  "jewelery": [
+    "jewelry"
+  ],
+  "ornaments": [
+    "jewelry"
+  ],
+  "chocolate": [
+    "cocoa confectionery"
+  ],
+  "cocoa confectionery": [
+    "chocolate"
+  ],
+  "sugar confectionery": [
+    "candy",
+    "sweets"
+  ],
+  "candy": [
+    "sweets",
+    "sugar confectionery"
+  ],
+  "sweets": [
+    "candy",
+    "sugar confectionery"
+  ],
+  "milk": [
+    "dairy milk",
+    "cow milk"
+  ],
+  "cheese": [
+    "cheddar",
+    "mozzarella",
+    "dairy cheese"
+  ],
+  "cheddar": [
+    "cheese"
+  ],
+  "mozzarella": [
+    "cheese"
+  ],
+  "beer": [
+    "ale",
+    "lager"
+  ],
+  "ale": [
+    "beer"
+  ],
+  "lager": [
+    "beer"
+  ],
+  "shirt": [
+    "top",
+    "blouse",
+    "t-shirt"
+  ],
+  "t-shirt": [
+    "tee",
+    "shirt"
+  ],
+  "tee": [
+    "t-shirt",
+    "shirt"
+  ],
+  "blouse": [
+    "shirt"
+  ],
+  "top": [
+    "shirt",
+    "upper garment"
+  ],
+  "rug": [
+    "carpet"
+  ],
+  "carpet": [
+    "rug"
+  ],
+  "pasta": [
+    "macaroni",
+    "spaghetti",
+    "noodles"
+  ],
+  "noodle": [
+    "noodles",
+    "pasta"
+  ],
+  "noodles": [
+    "noodle",
+    "pasta"
+  ],
+  "spaghetti": [
+    "pasta"
+  ],
+  "macaroni": [
+    "pasta"
+  ],
+  "sausage": [
+    "wurst",
+    "encased meat"
+  ],
+  "wurst": [
+    "sausage"
+  ],
+  "pork": [
+    "hog meat",
+    "swine flesh"
+  ],
+  "hog meat": [
+    "pork"
+  ],
+  "swine": [
+    "pig",
+    "pork"
+  ],
+  "pig": [
+    "swine"
+  ],
+  "flour": [
+    "milled grain",
+    "ground wheat"
+  ],
+  "ground wheat": [
+    "flour"
+  ],
+  "rice": [
+    "rice grain",
+    "paddy"
+  ],
+  "paddy": [
+    "rice"
+  ],
+  "coffee": [
+    "café",
+    "java"
+  ],
+  "café": [
+    "coffee"
+  ],
+  "java": [
+    "coffee"
+  ],
+  "tea": [
+    "camellia sinensis",
+    "cha"
+  ],
+  "cha": [
+    "tea"
+  ],
+  "green tea": [
+    "sencha",
+    "matcha"
+  ],
+  "matcha": [
+    "green tea"
+  ],
+  "black tea": [
+    "fermented tea"
+  ],
+  "fermented tea": [
+    "black tea"
+  ],
+  "wine": [
+    "vino",
+    "grape wine"
+  ],
+  "vino": [
+    "wine"
+  ],
+  "whisky": [
+    "whiskey",
+    "scotch"
+  ],
+  "whiskey": [
+    "whisky"
+  ],
+  "scotch": [
+    "whisky"
+  ],
+  "gin": [
+    "distilled spirit"
+  ],
+  "vodka": [
+    "distilled spirit"
+  ],
+  "rum": [
+    "distilled spirit"
+  ],
+  "distilled spirit": [
+    "gin",
+    "vodka",
+    "rum"
+  ]
+}
